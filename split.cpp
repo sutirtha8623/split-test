@@ -19,6 +19,8 @@ void split(int data, int length)
 	print_array(dat_arr, 7);
 }
 
+
+//driver function
 int main()
 {
 	int x = 4829345;
