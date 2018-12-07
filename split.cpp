@@ -18,8 +18,6 @@ void split(int data, int length)
 	reverse(dat_arr, 0, 6);
 	print_array(dat_arr, 7);
 }
-
-
 //driver function
 int main()
 {
